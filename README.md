@@ -13,9 +13,7 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
-  </a>
+
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -54,7 +52,7 @@
 |-------------|----------------|-----------|-----------|
 | *E-talk* | HTML, CSS, JavaScript, PHP | [Live](talk-sphere-rust.vercel.app) | [Repo](https://github.com/Codesat45/e-Talk) |
 | *freelancing frontend* | HTML, CSS, JavaScript | [Live]() | [Repo](https://github.com/Codesat45/Freelancing) |
-/*| *BMI Calculator* | HTML, CSS, JavaScript | [Live](https://bmi-calculator-git-main-reyan-singhs-projects-6255d243.vercel.app/) | [Repo](https://github.com/Reyan9450/BMI-Calculator) |*/
+
 | *Talk-Sphere* | HTML,CSS,JavaScript,React,React-Redux.node.js,  Express.js , Socket.io , mongodb | [Live]() | [Repo](https://github.com/Codesat45/Talk-Sphere) |
 | *Shop-me* | React, node.js, mpngodb, ecomm api ,favicon.io | [Live](#) | [Repo](https://github.com/Codesat45/Shop-Me) |
 
