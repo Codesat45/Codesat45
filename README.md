@@ -52,11 +52,11 @@
 
 | Project Name | Technology Used | Live Link | Repo Link |
 |-------------|----------------|-----------|-----------|
-| *Background Color Changer* | HTML, CSS, JavaScript | [Live](https://bg-changer-five-jade.vercel.app/) | [Repo](https://github.com/Reyan9450/BG_Changer) |
-| *Dice Game* | HTML, CSS, JavaScript | [Live](https://dice-game-git-main-reyan-singhs-projects-6255d243.vercel.app/) | [Repo](https://github.com/Reyan9450/DiceGame) |
-| *BMI Calculator* | HTML, CSS, JavaScript | [Live](https://bmi-calculator-git-main-reyan-singhs-projects-6255d243.vercel.app/) | [Repo](https://github.com/Reyan9450/BMI-Calculator) |
-| *WordSprint* | HTML,CSS,JavaScript,React,React-Redux | [Live](https://word-sprint-rho.vercel.app/) | [Repo](https://github.com/Reyan9450/WordSprint) |
-| *EcoAlert* | React, Express.js, Twilio API | [Live](#) | [Repo](#) |
+| *E-talk* | HTML, CSS, JavaScript, PHP | [Live](talk-sphere-rust.vercel.app) | [Repo](https://github.com/Codesat45/e-Talk) |
+| *freelancing frontend* | HTML, CSS, JavaScript | [Live]() | [Repo](https://github.com/Codesat45/Freelancing) |
+/*| *BMI Calculator* | HTML, CSS, JavaScript | [Live](https://bmi-calculator-git-main-reyan-singhs-projects-6255d243.vercel.app/) | [Repo](https://github.com/Reyan9450/BMI-Calculator) |*/
+| *Talk-Sphere* | HTML,CSS,JavaScript,React,React-Redux.node.js,  Express.js , Socket.io , mongodb | [Live]() | [Repo](https://github.com/Codesat45/Talk-Sphere) |
+| *Shop-me* | React, node.js, mpngodb, ecomm api ,favicon.io | [Live](#) | [Repo](https://github.com/Codesat45/Shop-Me) |
 
 ---
 
