@@ -53,7 +53,7 @@
 | *E-talk* | HTML, CSS, JavaScript, PHP | [Live](talk-sphere-rust.vercel.app) | [Repo](https://github.com/Codesat45/e-Talk) |
 | *freelancing frontend* | HTML, CSS, JavaScript | [Live]() | [Repo](https://github.com/Codesat45/Freelancing) |
 | *Talk-Sphere* | HTML,CSS,JavaScript,React,React-Redux.node.js,  Express.js , Socket.io , mongodb | [Live]() | [Repo](https://github.com/Codesat45/Talk-Sphere) |
-| *Shop-me* | React, node.js, mpngodb, ecomm api ,favicon.io | [Live](#) | [Repo](https://github.com/Codesat45/Shop-Me) |
+| *Shop-me* | React, node.js, mongodb, ecomm api ,favicon.io | [Live](#) | [Repo](https://github.com/Codesat45/Shop-Me) |
 
 ---
 
